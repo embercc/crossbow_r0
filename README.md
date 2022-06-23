@@ -11,7 +11,7 @@ The first generation got 3:21 speedboatrace score, and the 4th on the ranklist.
 The second generation is underway.
 
 ## main change
-1. xy: nema17 -> nema14
+1. xy: nema17 48mm stepper(voron 2.4 z stepper) -> nema14 55mm or 60mm stepper(voron v0 xy stepper)
 2. z: stepper with planetary gear reducer -> voron 2.4 Z retarder
 3. range: xy range (always larger than heated bed size) 110x110 -> 168x168
 4. hotend from BIQU H2O to SE Mosquito Magnum+ or something with similar shape.
