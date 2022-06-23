@@ -18,10 +18,10 @@ The final design is underway.
     * Designed from sketch and aluminum CNC oriented.
 * Z: voron 2.4 Z architecture (not ready)
     * "*belt-driven 4Z lifting the heated bed*" seems weird but works fine and can reach 20000mm^2/s @ 60mm/s, so this architecture is keeped in the project.
-* No electronics bay design. 
+* No electronics bay. 
     * As my testing platform, the electronics changes frequently. 
     * I placed some aluminum extrutions at left and right and bottom to mount PSU and MCU boards and RPIs.
-* No fully enclosure design.
+* No fully enclosure.
 
 ## 3D model link
 * https://a360.co/3b0XKa3
