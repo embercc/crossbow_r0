@@ -3,7 +3,10 @@ It is an XXYY cross gantry 3d printer.
 
 The first generation got 3:21 speedboatrace score, and the 4th on the ranklist.
 
-speedboatrace video: https://youtu.be/H7nYXnaKUYE
+speedboatrace video: 
+  https://youtu.be/H7nYXnaKUYE
+speedboatrace leaderboard:
+  https://docs.google.com/spreadsheets/d/1lFiJi-X3Xm3hh3I9Ty9dfACMiBWxHFAOUeiU1km9m6I/edit#gid=106736391
 
 The second generation is underway.
 
