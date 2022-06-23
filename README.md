@@ -13,7 +13,8 @@ The final design is underway.
 ## main feature
 * XY system
     * Frame size 300x300
-    * Full movement range (always larger than heated bed size): 168x168. so I prefer 150x150 or 180x180 aluminum heated bed.
+    * Full movement range (always larger than heated bed size): 168x168. 
+        * An aluminum heated bed with the size of 150x150 or 180x180 is recommended.
     * nema14 55mm or 60mm stepper x4 (voron v0 xy stepper)
     * Designed from sketch and aluminum CNC oriented.
 * Z: voron 2.4 Z architecture (not ready)
