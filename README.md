@@ -21,6 +21,10 @@ The second generation is underway.
 
 ## 3D model link
 https://a360.co/3b0XKa3
+This is for preview. The f3d file will be free to download when the design is completed.
 
 ## One more thing
 The whole project is overkilled for daily use, but is just good enough as my testing platform.
+
+## Two more thing
+I am not planning to build a BOM, *someone can count bolts and nuts by themself*.
