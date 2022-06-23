@@ -24,8 +24,6 @@ The second generation is underway.
 * https://a360.co/3b0XKa3
   * This is for preview. The f3d file will be free to download when the design is completed.
 
-<iframe src="https://gmail856542.autodesk360.com/shares/public/SH35dfcQT936092f0e439c9277ba155ccada?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
 ## One more thing
 The whole project is overkilled for daily use, but is just good enough as my testing platform.
 
