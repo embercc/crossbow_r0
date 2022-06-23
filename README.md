@@ -17,7 +17,7 @@ The second generation is underway.
 4. hotend from BIQU H2O to SE Mosquito Magnum+ or something with similar shape.
 5. light weight Aluminum CNC XY design (yes this is the public version). All models is designed from sketch and CNC oriented.
 6. ABS-printed project is deprecated because the CNC version is WAY better. But you will find it is easy to make our own ABS-printed project.
-7. *belt-driven 4Z lifting the heated bed* seems weird but works fine and can reach 20000mm^2/s @ 60mm/s, so this architecture is keeped in the project.
+7. * "belt-driven 4Z lifting the heated bed"* seems weird but works fine and can reach 20000mm^2/s @ 60mm/s, so this architecture is keeped in the project.
 
 
 ## 3D model link
