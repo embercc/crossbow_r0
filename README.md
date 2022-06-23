@@ -27,4 +27,4 @@ The second generation is underway.
 The whole project is overkilled for daily use, but is just good enough as my testing platform.
 
 ## Two more thing
-I am not planning to build a BOM, *someone can count bolts and nuts by themself*.
+I am not planning to build a BOM, *someone can count bolts and nuts by himself*.
