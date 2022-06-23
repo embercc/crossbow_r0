@@ -32,4 +32,4 @@ The final design is underway.
 * The whole project is overkilled for daily use, but is just good enough as my testing platform.
 * I am not planning to build a BOM, *someone can count bolts and nuts by himself*.
 * ABS-printed project is deprecated because the CNC version is WAY better. 
-    * But you will find it's easy to enforce models to be stonger enough, and to be 3d-printed with ABS.
+    * But you will find it's easy to enforce models to be stonger enough, and then to be 3d-printed with ABS.
