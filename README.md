@@ -17,6 +17,8 @@ The final design is underway.
         * An aluminum heated bed with the size of 150x150 or 180x180 is recommended.
     * nema14 55mm or 60mm stepper x4 (voron v0 xy stepper)
     * Designed from sketch and aluminum CNC oriented.
+    * 140k mm/s^2 @ 600mm/s with TMC2209 24V
+    * 300k mm/s^2 @ 700mm/s with TMC5160 55V
 * Z: voron 2.4 Z architecture (not ready)
     * "*belt-driven 4Z lifting the heated bed*" seems weird but works fine and can reach 20000mm^2/s @ 60mm/s, so this architecture is keeped in the project.
 * No electronics bay. 
