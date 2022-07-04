@@ -1,7 +1,7 @@
 # crossbow_r0
 It is an XXYY cross gantry 3d printer.
 
-The first prototype got 3:21 speedboatrace score, and the 4th on the ranklist.
+The first prototype got 3:21 speedboatrace score, and the 5th(by score), 3rd(by machine/ID) on the ranklist.
 
 * speedboatrace video: 
   * https://youtu.be/H7nYXnaKUYE
