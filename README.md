@@ -27,7 +27,8 @@ The final design is underway.
 * No fully enclosure.
 
 ## 3D model link
-* https://a360.co/3otfhes
+* https://a360.co/3b0XKa3
+* https://a360.co/3otfhes (dynamic)
   * This is for preview. The f3d file will be free to download when the design is completed.
 
 ## Misc
