@@ -10,7 +10,7 @@ The first prototype got 3:21 speedboatrace score, and the 5th(by score), 3rd(by 
 
 The final design is underway.
 
-## main feature
+## Main Feature
 * XY system
     * Frame size 300x300
     * Full movement range (always larger than heated bed size): 168x168. 
@@ -26,7 +26,7 @@ The final design is underway.
     * I placed some aluminum extrutions at left and right and bottom to mount PSU and MCU boards and RPIs.
 * No fully enclosure.
 
-## 3D model link
+## 3D Model Link
 * https://a360.co/3b0XKa3
 * https://a360.co/3otfhes (dynamic)
   * This is for preview. The f3d file will be free to download when the design is completed.
