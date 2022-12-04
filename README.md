@@ -29,7 +29,7 @@ The final design is underway.
 ## 3D Model Link
 * https://a360.co/3b0XKa3
 * https://a360.co/3otfhes (dynamic)
-  * This is for preview. The f3d file will be free to download when the design is completed.
+  * This is for preview. The f3d file will be free to be downloaded when the design is completed.
 
 ## Misc
 * Z system is not ready.
