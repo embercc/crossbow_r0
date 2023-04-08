@@ -27,9 +27,8 @@ The final design is underway.
 * No fully enclosure.
 
 ## 3D Model Link
-* https://a360.co/3b0XKa3
-* https://a360.co/3otfhes (dynamic)
-  * This is for preview. The f3d file will be free to be downloaded when the design is completed.
+* https://a360.co/3otfhes 
+  * This is for preview. The f3d file is free to be downloaded.
 
 ## Misc
 * Z system is not ready.
