@@ -28,7 +28,7 @@ The final design is underway.
 
 ## 3D Model Link
 * https://a360.co/3otfhes 
-  * This is for preview. The f3d file is free to be downloaded.
+  * This is for online preview for those who do not have fusion360 installed. The f3d file is free to be downloaded.
 * https://a360.co/3nV5nW3
   * Latest work.
 
