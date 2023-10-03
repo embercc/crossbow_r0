@@ -18,7 +18,7 @@ The final design is underway.
     * nema14 55mm or 60mm stepper x4 (voron v0 xy stepper)
     * Designed from sketch and aluminum CNC oriented.
     * maximum 140k mm/s^2 @ 600mm/s with TMC2209 24V (tested)
-    * maximum 160k mm/s^2 @ 600mm/s with TMC5160 55V (tested, nema17 is not as powerful as expected, but way far enough for daily fast printing)
+    * maximum 160k mm/s^2 @ 600mm/s with TMC5160 55V (tested, nema14 is not as powerful as expected, but way far enough for daily fast printing)
 * Z: Voron 2.4 Z architecture (not ready)
     * "*belt-driven 4Z lifting the heated bed*" seems weird but works fine and can reach 20000mm^2/s @ 60mm/s, so this architecture is keeped in the project.
 * No electronics bay. 
